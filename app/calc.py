@@ -215,10 +215,3 @@ error = {"not_supported" : "Error: Invalid Value Input.",
          "is_complex" : "Error: Complex Numbers Unsupported"}
 
 calc = _Logic()
-
-"""
-Notes: Zikang first created the old logic math methods.
-       Wahab improved Zikang code and added some extra methods.
-
-       Submitted on GitHub.
-"""

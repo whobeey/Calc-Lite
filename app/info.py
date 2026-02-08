@@ -34,4 +34,4 @@ class _Info:
         raise TypeError("Error. Unable to delete information")
 
 # Creating an instance that contains the app information
-APP_INFO = _Info("Calc Lite", "v1.0.2", "Stable", "Wahab H & Zikang Xu")
+APP_INFO = _Info("Calc Lite", "v1.0.2", "Stable", "Wahab & Zikang")
